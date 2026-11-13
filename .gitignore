@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+topjobs_results.txt
+topjobs_seen.json
+.env
